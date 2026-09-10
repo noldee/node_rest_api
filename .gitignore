@@ -11,7 +11,7 @@ coverage/
 *.lcov
 
 # Archivos de compilación (TypeScript)
-dist
+dist/
 build/
 
 # Archivos de logs y del sistema
