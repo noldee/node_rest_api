@@ -6,7 +6,7 @@
     "outDir": "./dist",
     "rootDir": "./src",
     "lib": ["esnext"],
-    "types": ["node"],
+    "types": ["node", "vitest/globals"],
     "strict": false,
     "sourceMap": true,
     "esModuleInterop": true,
