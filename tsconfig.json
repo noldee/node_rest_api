@@ -10,7 +10,9 @@
     "strict": false,
     "sourceMap": true,
     "esModuleInterop": true,
-    "declaration": false
+    "declaration": false,
+    "experimentalDecorators": true,
+    "emitDeclarationOnly": false
   },
   "include": ["src/**/*.ts"]
 }
