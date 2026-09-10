@@ -11,6 +11,7 @@ import {
 import { handleInputErros } from "./middleware";
 
 const router = Router();
+
 // Routing
 router.get("/", getProducts);
 router.get(

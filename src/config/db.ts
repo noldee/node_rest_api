@@ -1,6 +1,6 @@
 import { Sequelize } from "sequelize-typescript";
 import dotenv from "dotenv";
-import Product from "../models/Product.module";
+import Product from "../models/product.module";
 
 dotenv.config();
 
